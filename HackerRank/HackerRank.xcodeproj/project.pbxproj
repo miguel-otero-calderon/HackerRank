@@ -22,6 +22,8 @@
 		4C84211728A20A9200AF1B81 /* CalculateTheMedian.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C84211628A20A9200AF1B81 /* CalculateTheMedian.swift */; };
 		4C84211928A275DF00AF1B81 /* IndexOf.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C84211828A275DF00AF1B81 /* IndexOf.swift */; };
 		4C986915279DABC2003A15BA /* DiagonalDifference.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C986914279DABC2003A15BA /* DiagonalDifference.swift */; };
+		4CD21E0428A36BAB00BA152E /* LinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CD21E0328A36BAA00BA152E /* LinkedList.swift */; };
+		4CFA7DD228A4486B0022E6A8 /* LinkedListCenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CFA7DD128A4486B0022E6A8 /* LinkedListCenter.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -42,6 +44,8 @@
 		4C84211628A20A9200AF1B81 /* CalculateTheMedian.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculateTheMedian.swift; sourceTree = "<group>"; };
 		4C84211828A275DF00AF1B81 /* IndexOf.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IndexOf.swift; sourceTree = "<group>"; };
 		4C986914279DABC2003A15BA /* DiagonalDifference.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiagonalDifference.swift; sourceTree = "<group>"; };
+		4CD21E0328A36BAA00BA152E /* LinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinkedList.swift; sourceTree = "<group>"; };
+		4CFA7DD128A4486B0022E6A8 /* LinkedListCenter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinkedListCenter.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +102,8 @@
 				4C30CC8828A1D535007DDE8E /* MissingNumbers.swift */,
 				4C84211628A20A9200AF1B81 /* CalculateTheMedian.swift */,
 				4C84211828A275DF00AF1B81 /* IndexOf.swift */,
+				4CD21E0328A36BAA00BA152E /* LinkedList.swift */,
+				4CFA7DD128A4486B0022E6A8 /* LinkedListCenter.swift */,
 			);
 			path = UseCase;
 			sourceTree = "<group>";
@@ -174,6 +180,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4C30CC8528A1C82E007DDE8E /* FindSmallerNumbers.swift in Sources */,
+				4CFA7DD228A4486B0022E6A8 /* LinkedListCenter.swift in Sources */,
 				4C30CC8928A1D535007DDE8E /* MissingNumbers.swift in Sources */,
 				4C530DFF28A0D9D100E0B4D3 /* NumberCount.swift in Sources */,
 				4C30CC8728A1D39F007DDE8E /* OrderArrayString.swift in Sources */,
@@ -184,6 +191,7 @@
 				4C84211728A20A9200AF1B81 /* CalculateTheMedian.swift in Sources */,
 				4C84211928A275DF00AF1B81 /* IndexOf.swift in Sources */,
 				4C7F203B279C944D008B4241 /* SceneDelegate.swift in Sources */,
+				4CD21E0428A36BAB00BA152E /* LinkedList.swift in Sources */,
 				4C986915279DABC2003A15BA /* DiagonalDifference.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
