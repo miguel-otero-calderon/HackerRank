@@ -11,7 +11,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        LinkedListCenter<Character>.test()
+        FunctionMin.test()
         self.view.backgroundColor = .red
     }
 }

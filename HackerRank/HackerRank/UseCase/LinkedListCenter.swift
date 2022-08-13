@@ -56,6 +56,6 @@ class LinkedListCenter<T> {
             }
             lastNodo = nodoCurrent
         }
-        print(list.execute()?.valor)
+        print(list.execute()?.valor ?? "")
     }
 }

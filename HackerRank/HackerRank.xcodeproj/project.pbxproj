@@ -11,7 +11,10 @@
 		4C30CC8528A1C82E007DDE8E /* FindSmallerNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C30CC8428A1C82E007DDE8E /* FindSmallerNumbers.swift */; };
 		4C30CC8728A1D39F007DDE8E /* OrderArrayString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C30CC8628A1D39F007DDE8E /* OrderArrayString.swift */; };
 		4C30CC8928A1D535007DDE8E /* MissingNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C30CC8828A1D535007DDE8E /* MissingNumbers.swift */; };
+		4C480B0628A66DBB00A6DA3B /* TraverseBinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C480B0528A66DBB00A6DA3B /* TraverseBinaryTree.swift */; };
+		4C52388728A731A400A95E05 /* FunctionMap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C52388628A731A400A95E05 /* FunctionMap.swift */; };
 		4C530DFF28A0D9D100E0B4D3 /* NumberCount.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C530DFE28A0D9D100E0B4D3 /* NumberCount.swift */; };
+		4C5F3C6928A8160600FAE4BD /* FunctionMin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C5F3C6828A8160600FAE4BD /* FunctionMin.swift */; };
 		4C7F2039279C944D008B4241 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C7F2038279C944D008B4241 /* AppDelegate.swift */; };
 		4C7F203B279C944D008B4241 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C7F203A279C944D008B4241 /* SceneDelegate.swift */; };
 		4C7F203D279C944D008B4241 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C7F203C279C944D008B4241 /* ViewController.swift */; };
@@ -31,7 +34,10 @@
 		4C30CC8428A1C82E007DDE8E /* FindSmallerNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindSmallerNumbers.swift; sourceTree = "<group>"; };
 		4C30CC8628A1D39F007DDE8E /* OrderArrayString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderArrayString.swift; sourceTree = "<group>"; };
 		4C30CC8828A1D535007DDE8E /* MissingNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MissingNumbers.swift; sourceTree = "<group>"; };
+		4C480B0528A66DBB00A6DA3B /* TraverseBinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TraverseBinaryTree.swift; sourceTree = "<group>"; };
+		4C52388628A731A400A95E05 /* FunctionMap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FunctionMap.swift; sourceTree = "<group>"; };
 		4C530DFE28A0D9D100E0B4D3 /* NumberCount.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberCount.swift; sourceTree = "<group>"; };
+		4C5F3C6828A8160600FAE4BD /* FunctionMin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FunctionMin.swift; sourceTree = "<group>"; };
 		4C7F2035279C944D008B4241 /* HackerRank.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HackerRank.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4C7F2038279C944D008B4241 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4C7F203A279C944D008B4241 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -104,6 +110,9 @@
 				4C84211828A275DF00AF1B81 /* IndexOf.swift */,
 				4CD21E0328A36BAA00BA152E /* LinkedList.swift */,
 				4CFA7DD128A4486B0022E6A8 /* LinkedListCenter.swift */,
+				4C480B0528A66DBB00A6DA3B /* TraverseBinaryTree.swift */,
+				4C52388628A731A400A95E05 /* FunctionMap.swift */,
+				4C5F3C6828A8160600FAE4BD /* FunctionMin.swift */,
 			);
 			path = UseCase;
 			sourceTree = "<group>";
@@ -179,15 +188,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4C52388728A731A400A95E05 /* FunctionMap.swift in Sources */,
 				4C30CC8528A1C82E007DDE8E /* FindSmallerNumbers.swift in Sources */,
 				4CFA7DD228A4486B0022E6A8 /* LinkedListCenter.swift in Sources */,
 				4C30CC8928A1D535007DDE8E /* MissingNumbers.swift in Sources */,
 				4C530DFF28A0D9D100E0B4D3 /* NumberCount.swift in Sources */,
 				4C30CC8728A1D39F007DDE8E /* OrderArrayString.swift in Sources */,
+				4C5F3C6928A8160600FAE4BD /* FunctionMin.swift in Sources */,
 				4C7F203D279C944D008B4241 /* ViewController.swift in Sources */,
 				4C7F2039279C944D008B4241 /* AppDelegate.swift in Sources */,
 				4C217E7F279D09730051C5BF /* FindUniqueElement.swift in Sources */,
 				4C7F204E279C9489008B4241 /* FindTheMedian.swift in Sources */,
+				4C480B0628A66DBB00A6DA3B /* TraverseBinaryTree.swift in Sources */,
 				4C84211728A20A9200AF1B81 /* CalculateTheMedian.swift in Sources */,
 				4C84211928A275DF00AF1B81 /* IndexOf.swift in Sources */,
 				4C7F203B279C944D008B4241 /* SceneDelegate.swift in Sources */,
