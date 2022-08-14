@@ -11,7 +11,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        FunctionMin.test()
+        CountingSort.test()
         self.view.backgroundColor = .red
     }
 }

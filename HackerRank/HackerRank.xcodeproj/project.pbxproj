@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		4C217E7F279D09730051C5BF /* FindUniqueElement.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C217E7E279D09730051C5BF /* FindUniqueElement.swift */; };
+		4C2AE91328A935AA0063976A /* CountingSort.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C2AE91228A935AA0063976A /* CountingSort.swift */; };
 		4C30CC8528A1C82E007DDE8E /* FindSmallerNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C30CC8428A1C82E007DDE8E /* FindSmallerNumbers.swift */; };
 		4C30CC8728A1D39F007DDE8E /* OrderArrayString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C30CC8628A1D39F007DDE8E /* OrderArrayString.swift */; };
 		4C30CC8928A1D535007DDE8E /* MissingNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C30CC8828A1D535007DDE8E /* MissingNumbers.swift */; };
@@ -31,6 +32,7 @@
 
 /* Begin PBXFileReference section */
 		4C217E7E279D09730051C5BF /* FindUniqueElement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindUniqueElement.swift; sourceTree = "<group>"; };
+		4C2AE91228A935AA0063976A /* CountingSort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountingSort.swift; sourceTree = "<group>"; };
 		4C30CC8428A1C82E007DDE8E /* FindSmallerNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindSmallerNumbers.swift; sourceTree = "<group>"; };
 		4C30CC8628A1D39F007DDE8E /* OrderArrayString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderArrayString.swift; sourceTree = "<group>"; };
 		4C30CC8828A1D535007DDE8E /* MissingNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MissingNumbers.swift; sourceTree = "<group>"; };
@@ -113,6 +115,7 @@
 				4C480B0528A66DBB00A6DA3B /* TraverseBinaryTree.swift */,
 				4C52388628A731A400A95E05 /* FunctionMap.swift */,
 				4C5F3C6828A8160600FAE4BD /* FunctionMin.swift */,
+				4C2AE91228A935AA0063976A /* CountingSort.swift */,
 			);
 			path = UseCase;
 			sourceTree = "<group>";
@@ -200,6 +203,7 @@
 				4C217E7F279D09730051C5BF /* FindUniqueElement.swift in Sources */,
 				4C7F204E279C9489008B4241 /* FindTheMedian.swift in Sources */,
 				4C480B0628A66DBB00A6DA3B /* TraverseBinaryTree.swift in Sources */,
+				4C2AE91328A935AA0063976A /* CountingSort.swift in Sources */,
 				4C84211728A20A9200AF1B81 /* CalculateTheMedian.swift in Sources */,
 				4C84211928A275DF00AF1B81 /* IndexOf.swift in Sources */,
 				4C7F203B279C944D008B4241 /* SceneDelegate.swift in Sources */,
