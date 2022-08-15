@@ -12,7 +12,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         CountingSort.test()
-        self.view.backgroundColor = .red
+        self.view.backgroundColor = .green
     }
 }
 
