@@ -11,7 +11,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        CountingSort.test()
+        FindSecondPlusBig.test()
         self.view.backgroundColor = .green
     }
 }

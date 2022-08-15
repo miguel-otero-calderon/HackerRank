@@ -26,6 +26,7 @@
 		4C84211728A20A9200AF1B81 /* CalculateTheMedian.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C84211628A20A9200AF1B81 /* CalculateTheMedian.swift */; };
 		4C84211928A275DF00AF1B81 /* IndexOf.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C84211828A275DF00AF1B81 /* IndexOf.swift */; };
 		4C986915279DABC2003A15BA /* DiagonalDifference.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C986914279DABC2003A15BA /* DiagonalDifference.swift */; };
+		4C98C8A828AAA7CA00493CF0 /* FindSecondPlusBig.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C98C8A728AAA7CA00493CF0 /* FindSecondPlusBig.swift */; };
 		4CD21E0428A36BAB00BA152E /* LinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CD21E0328A36BAA00BA152E /* LinkedList.swift */; };
 		4CFA7DD228A4486B0022E6A8 /* LinkedListCenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CFA7DD128A4486B0022E6A8 /* LinkedListCenter.swift */; };
 /* End PBXBuildFile section */
@@ -52,6 +53,7 @@
 		4C84211628A20A9200AF1B81 /* CalculateTheMedian.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculateTheMedian.swift; sourceTree = "<group>"; };
 		4C84211828A275DF00AF1B81 /* IndexOf.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IndexOf.swift; sourceTree = "<group>"; };
 		4C986914279DABC2003A15BA /* DiagonalDifference.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiagonalDifference.swift; sourceTree = "<group>"; };
+		4C98C8A728AAA7CA00493CF0 /* FindSecondPlusBig.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindSecondPlusBig.swift; sourceTree = "<group>"; };
 		4CD21E0328A36BAA00BA152E /* LinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinkedList.swift; sourceTree = "<group>"; };
 		4CFA7DD128A4486B0022E6A8 /* LinkedListCenter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinkedListCenter.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -116,6 +118,7 @@
 				4C52388628A731A400A95E05 /* FunctionMap.swift */,
 				4C5F3C6828A8160600FAE4BD /* FunctionMin.swift */,
 				4C2AE91228A935AA0063976A /* CountingSort.swift */,
+				4C98C8A728AAA7CA00493CF0 /* FindSecondPlusBig.swift */,
 			);
 			path = UseCase;
 			sourceTree = "<group>";
@@ -207,6 +210,7 @@
 				4C84211728A20A9200AF1B81 /* CalculateTheMedian.swift in Sources */,
 				4C84211928A275DF00AF1B81 /* IndexOf.swift in Sources */,
 				4C7F203B279C944D008B4241 /* SceneDelegate.swift in Sources */,
+				4C98C8A828AAA7CA00493CF0 /* FindSecondPlusBig.swift in Sources */,
 				4CD21E0428A36BAB00BA152E /* LinkedList.swift in Sources */,
 				4C986915279DABC2003A15BA /* DiagonalDifference.swift in Sources */,
 			);
