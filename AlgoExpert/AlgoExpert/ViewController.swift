@@ -11,7 +11,8 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        MinimumWaitingTime.test()
+        FindClosestValueInBST.test()
+        self.view.backgroundColor = .purple
     }
     
 }
