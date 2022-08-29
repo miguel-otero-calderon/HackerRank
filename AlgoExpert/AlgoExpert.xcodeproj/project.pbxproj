@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4C59807328AB8D2200F83635 /* NonConstructibleChange.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C59807228AB8D2200F83635 /* NonConstructibleChange.swift */; };
 		4C7E25A8279A8B1600D1D994 /* BranchSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C7E25A7279A8B1600D1D994 /* BranchSum.swift */; };
 		4C7F202B279C4926008B4241 /* MinimumWaitingTime.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C7F202A279C4926008B4241 /* MinimumWaitingTime.swift */; };
 		4C8C62AA279BC10200F71D47 /* NodeDepths.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C8C62A9279BC10200F71D47 /* NodeDepths.swift */; };
@@ -24,6 +25,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4C59807228AB8D2200F83635 /* NonConstructibleChange.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NonConstructibleChange.swift; sourceTree = "<group>"; };
 		4C7E25A7279A8B1600D1D994 /* BranchSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BranchSum.swift; sourceTree = "<group>"; };
 		4C7F202A279C4926008B4241 /* MinimumWaitingTime.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumWaitingTime.swift; sourceTree = "<group>"; };
 		4C8C62A9279BC10200F71D47 /* NodeDepths.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NodeDepths.swift; sourceTree = "<group>"; };
@@ -95,6 +97,7 @@
 				4C8C62AB279BDAFE00F71D47 /* DepthsFirstSearch.swift */,
 				4C7F202A279C4926008B4241 /* MinimumWaitingTime.swift */,
 				4C98C8A928AAF06000493CF0 /* FindClosestValueInBST.swift */,
+				4C59807228AB8D2200F83635 /* NonConstructibleChange.swift */,
 			);
 			path = UseCase;
 			sourceTree = "<group>";
@@ -171,6 +174,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4CA46716278EE3FD00EDCE09 /* ViewController.swift in Sources */,
+				4C59807328AB8D2200F83635 /* NonConstructibleChange.swift in Sources */,
 				4C8C62AA279BC10200F71D47 /* NodeDepths.swift in Sources */,
 				4CA46727278EE42C00EDCE09 /* TwoNumberSum.swift in Sources */,
 				4C7E25A8279A8B1600D1D994 /* BranchSum.swift in Sources */,

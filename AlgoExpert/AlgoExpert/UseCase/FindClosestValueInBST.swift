@@ -108,7 +108,7 @@ class FindClosestValueInBST {
     private var closest: Int = 0
     private var minus:Int = Int.max
     func findClosestValueInBST(tree: BST?, target: Int) -> Int {
-        guard let root = tree else { return 1 }
+        guard let root = tree else { return closest }
         let value = root.value
         let left = root.left?.value ?? 0
         let right = root.right?.value ?? 0

@@ -11,7 +11,7 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        FindClosestValueInBST.test()
+        NonConstructibleChange.test()
         self.view.backgroundColor = .purple
     }
     
