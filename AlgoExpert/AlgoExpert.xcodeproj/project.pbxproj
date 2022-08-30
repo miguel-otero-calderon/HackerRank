@@ -22,6 +22,8 @@
 		4CA46727278EE42C00EDCE09 /* TwoNumberSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CA46726278EE42C00EDCE09 /* TwoNumberSum.swift */; };
 		4CA46729278F0BCD00EDCE09 /* ValidateSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CA46728278F0BCC00EDCE09 /* ValidateSubsequence.swift */; };
 		4CA4672B2791132D00EDCE09 /* SortedSquaredArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CA4672A2791132D00EDCE09 /* SortedSquaredArray.swift */; };
+		4CC1E91628BCD02C00AF3F6C /* ClassPhoto.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CC1E91528BCD02C00AF3F6C /* ClassPhoto.swift */; };
+		4CC1E91828BCDFE900AF3F6C /* TandemBicycle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CC1E91728BCDFE900AF3F6C /* TandemBicycle.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -42,6 +44,8 @@
 		4CA46726278EE42C00EDCE09 /* TwoNumberSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoNumberSum.swift; sourceTree = "<group>"; };
 		4CA46728278F0BCC00EDCE09 /* ValidateSubsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidateSubsequence.swift; sourceTree = "<group>"; };
 		4CA4672A2791132D00EDCE09 /* SortedSquaredArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SortedSquaredArray.swift; sourceTree = "<group>"; };
+		4CC1E91528BCD02C00AF3F6C /* ClassPhoto.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClassPhoto.swift; sourceTree = "<group>"; };
+		4CC1E91728BCDFE900AF3F6C /* TandemBicycle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TandemBicycle.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +102,8 @@
 				4C7F202A279C4926008B4241 /* MinimumWaitingTime.swift */,
 				4C98C8A928AAF06000493CF0 /* FindClosestValueInBST.swift */,
 				4C59807228AB8D2200F83635 /* NonConstructibleChange.swift */,
+				4CC1E91528BCD02C00AF3F6C /* ClassPhoto.swift */,
+				4CC1E91728BCDFE900AF3F6C /* TandemBicycle.swift */,
 			);
 			path = UseCase;
 			sourceTree = "<group>";
@@ -175,6 +181,7 @@
 			files = (
 				4CA46716278EE3FD00EDCE09 /* ViewController.swift in Sources */,
 				4C59807328AB8D2200F83635 /* NonConstructibleChange.swift in Sources */,
+				4CC1E91828BCDFE900AF3F6C /* TandemBicycle.swift in Sources */,
 				4C8C62AA279BC10200F71D47 /* NodeDepths.swift in Sources */,
 				4CA46727278EE42C00EDCE09 /* TwoNumberSum.swift in Sources */,
 				4C7E25A8279A8B1600D1D994 /* BranchSum.swift in Sources */,
@@ -182,6 +189,7 @@
 				4CA46712278EE3FD00EDCE09 /* AppDelegate.swift in Sources */,
 				4C7F202B279C4926008B4241 /* MinimumWaitingTime.swift in Sources */,
 				4CA46714278EE3FD00EDCE09 /* SceneDelegate.swift in Sources */,
+				4CC1E91628BCD02C00AF3F6C /* ClassPhoto.swift in Sources */,
 				4C8C62AC279BDAFE00F71D47 /* DepthsFirstSearch.swift in Sources */,
 				4CA4672B2791132D00EDCE09 /* SortedSquaredArray.swift in Sources */,
 				4CA46729278F0BCD00EDCE09 /* ValidateSubsequence.swift in Sources */,

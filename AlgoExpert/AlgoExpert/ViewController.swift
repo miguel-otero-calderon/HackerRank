@@ -11,7 +11,7 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        NonConstructibleChange.test()
+        TandemBicycle.test()
         self.view.backgroundColor = .purple
     }
     
