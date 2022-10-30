@@ -25,6 +25,8 @@
 		4C7F204E279C9489008B4241 /* FindTheMedian.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C7F204D279C9489008B4241 /* FindTheMedian.swift */; };
 		4C84211728A20A9200AF1B81 /* CalculateTheMedian.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C84211628A20A9200AF1B81 /* CalculateTheMedian.swift */; };
 		4C84211928A275DF00AF1B81 /* IndexOf.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C84211828A275DF00AF1B81 /* IndexOf.swift */; };
+		4C8488A0290E205700CDDB0D /* FindZigZagSequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C84889F290E205700CDDB0D /* FindZigZagSequence.swift */; };
+		4C8488A2290E2D6200CDDB0D /* RomanToInteger.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C8488A1290E2D6200CDDB0D /* RomanToInteger.swift */; };
 		4C986915279DABC2003A15BA /* DiagonalDifference.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C986914279DABC2003A15BA /* DiagonalDifference.swift */; };
 		4C98C8A828AAA7CA00493CF0 /* FindSecondPlusBig.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C98C8A728AAA7CA00493CF0 /* FindSecondPlusBig.swift */; };
 		4CD21E0428A36BAB00BA152E /* LinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CD21E0328A36BAA00BA152E /* LinkedList.swift */; };
@@ -52,6 +54,8 @@
 		4C7F204D279C9489008B4241 /* FindTheMedian.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindTheMedian.swift; sourceTree = "<group>"; };
 		4C84211628A20A9200AF1B81 /* CalculateTheMedian.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculateTheMedian.swift; sourceTree = "<group>"; };
 		4C84211828A275DF00AF1B81 /* IndexOf.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IndexOf.swift; sourceTree = "<group>"; };
+		4C84889F290E205700CDDB0D /* FindZigZagSequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindZigZagSequence.swift; sourceTree = "<group>"; };
+		4C8488A1290E2D6200CDDB0D /* RomanToInteger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RomanToInteger.swift; sourceTree = "<group>"; };
 		4C986914279DABC2003A15BA /* DiagonalDifference.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiagonalDifference.swift; sourceTree = "<group>"; };
 		4C98C8A728AAA7CA00493CF0 /* FindSecondPlusBig.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindSecondPlusBig.swift; sourceTree = "<group>"; };
 		4CD21E0328A36BAA00BA152E /* LinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinkedList.swift; sourceTree = "<group>"; };
@@ -119,6 +123,8 @@
 				4C5F3C6828A8160600FAE4BD /* FunctionMin.swift */,
 				4C2AE91228A935AA0063976A /* CountingSort.swift */,
 				4C98C8A728AAA7CA00493CF0 /* FindSecondPlusBig.swift */,
+				4C84889F290E205700CDDB0D /* FindZigZagSequence.swift */,
+				4C8488A1290E2D6200CDDB0D /* RomanToInteger.swift */,
 			);
 			path = UseCase;
 			sourceTree = "<group>";
@@ -195,11 +201,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				4C52388728A731A400A95E05 /* FunctionMap.swift in Sources */,
+				4C8488A0290E205700CDDB0D /* FindZigZagSequence.swift in Sources */,
 				4C30CC8528A1C82E007DDE8E /* FindSmallerNumbers.swift in Sources */,
 				4CFA7DD228A4486B0022E6A8 /* LinkedListCenter.swift in Sources */,
 				4C30CC8928A1D535007DDE8E /* MissingNumbers.swift in Sources */,
 				4C530DFF28A0D9D100E0B4D3 /* NumberCount.swift in Sources */,
 				4C30CC8728A1D39F007DDE8E /* OrderArrayString.swift in Sources */,
+				4C8488A2290E2D6200CDDB0D /* RomanToInteger.swift in Sources */,
 				4C5F3C6928A8160600FAE4BD /* FunctionMin.swift in Sources */,
 				4C7F203D279C944D008B4241 /* ViewController.swift in Sources */,
 				4C7F2039279C944D008B4241 /* AppDelegate.swift in Sources */,
