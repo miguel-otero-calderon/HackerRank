@@ -11,8 +11,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        RomanToInteger.test()
+        PalindromeNumber.test()
         self.view.backgroundColor = .green
     }
 }
-

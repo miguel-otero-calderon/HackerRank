@@ -12,6 +12,8 @@
 		4C30CC8528A1C82E007DDE8E /* FindSmallerNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C30CC8428A1C82E007DDE8E /* FindSmallerNumbers.swift */; };
 		4C30CC8728A1D39F007DDE8E /* OrderArrayString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C30CC8628A1D39F007DDE8E /* OrderArrayString.swift */; };
 		4C30CC8928A1D535007DDE8E /* MissingNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C30CC8828A1D535007DDE8E /* MissingNumbers.swift */; };
+		4C33C256290ED8C400BA7FD7 /* TwoSumIndex.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C33C255290ED8C400BA7FD7 /* TwoSumIndex.swift */; };
+		4C33C258290EEBC600BA7FD7 /* PalindromeNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C33C257290EEBC600BA7FD7 /* PalindromeNumber.swift */; };
 		4C480B0628A66DBB00A6DA3B /* TraverseBinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C480B0528A66DBB00A6DA3B /* TraverseBinaryTree.swift */; };
 		4C52388728A731A400A95E05 /* FunctionMap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C52388628A731A400A95E05 /* FunctionMap.swift */; };
 		4C530DFF28A0D9D100E0B4D3 /* NumberCount.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C530DFE28A0D9D100E0B4D3 /* NumberCount.swift */; };
@@ -39,6 +41,8 @@
 		4C30CC8428A1C82E007DDE8E /* FindSmallerNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindSmallerNumbers.swift; sourceTree = "<group>"; };
 		4C30CC8628A1D39F007DDE8E /* OrderArrayString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderArrayString.swift; sourceTree = "<group>"; };
 		4C30CC8828A1D535007DDE8E /* MissingNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MissingNumbers.swift; sourceTree = "<group>"; };
+		4C33C255290ED8C400BA7FD7 /* TwoSumIndex.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoSumIndex.swift; sourceTree = "<group>"; };
+		4C33C257290EEBC600BA7FD7 /* PalindromeNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PalindromeNumber.swift; sourceTree = "<group>"; };
 		4C480B0528A66DBB00A6DA3B /* TraverseBinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TraverseBinaryTree.swift; sourceTree = "<group>"; };
 		4C52388628A731A400A95E05 /* FunctionMap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FunctionMap.swift; sourceTree = "<group>"; };
 		4C530DFE28A0D9D100E0B4D3 /* NumberCount.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberCount.swift; sourceTree = "<group>"; };
@@ -125,6 +129,8 @@
 				4C98C8A728AAA7CA00493CF0 /* FindSecondPlusBig.swift */,
 				4C84889F290E205700CDDB0D /* FindZigZagSequence.swift */,
 				4C8488A1290E2D6200CDDB0D /* RomanToInteger.swift */,
+				4C33C255290ED8C400BA7FD7 /* TwoSumIndex.swift */,
+				4C33C257290EEBC600BA7FD7 /* PalindromeNumber.swift */,
 			);
 			path = UseCase;
 			sourceTree = "<group>";
@@ -200,12 +206,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4C33C256290ED8C400BA7FD7 /* TwoSumIndex.swift in Sources */,
 				4C52388728A731A400A95E05 /* FunctionMap.swift in Sources */,
 				4C8488A0290E205700CDDB0D /* FindZigZagSequence.swift in Sources */,
 				4C30CC8528A1C82E007DDE8E /* FindSmallerNumbers.swift in Sources */,
 				4CFA7DD228A4486B0022E6A8 /* LinkedListCenter.swift in Sources */,
 				4C30CC8928A1D535007DDE8E /* MissingNumbers.swift in Sources */,
 				4C530DFF28A0D9D100E0B4D3 /* NumberCount.swift in Sources */,
+				4C33C258290EEBC600BA7FD7 /* PalindromeNumber.swift in Sources */,
 				4C30CC8728A1D39F007DDE8E /* OrderArrayString.swift in Sources */,
 				4C8488A2290E2D6200CDDB0D /* RomanToInteger.swift in Sources */,
 				4C5F3C6928A8160600FAE4BD /* FunctionMin.swift in Sources */,

@@ -9,7 +9,7 @@ import Foundation
 
 struct TwoNumberSum {
     static func test() {
-        var array = [3,5,-4,8,11,1,-1,6]
+        var array = []
         let targetSum = 10
         
         let result = TwoNumberSum.twoNumberSum(&array, targetSum: targetSum)
