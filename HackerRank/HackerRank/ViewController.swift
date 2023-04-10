@@ -11,7 +11,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        FirstBadVersion.test()
+        AddTwoNumbers.test()
         self.view.backgroundColor = .green
     }
 }
